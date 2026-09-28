@@ -1,0 +1,17 @@
+Topology,N,MeanDegree,MaxDegree,Components
+Random,200,2,4,1
+Regular,200,2,3,1
+Clustered,200,2,4,1
+Disconnected,200,2,4,4
+Random,200,8,14,1
+Regular,200,8,12,1
+Clustered,200,8,15,1
+Disconnected,200,8,14,4
+Random,10000,2,4,1
+Regular,10000,2,3,1
+Clustered,10000,2,4,1
+Disconnected,10000,2,4,4
+Random,10000,8,18,1
+Regular,10000,8,12,1
+Clustered,10000,8,19,1
+Disconnected,10000,8,18,4
